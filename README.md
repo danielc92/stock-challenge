@@ -7,6 +7,14 @@ Using python 3.7.3
 pip install pandas seaborn jupyter
 ```
 
+### Running the notebook
+```
+# From root of project
+juypyter notebook
+
+# Then open in browser and view, alternatively view the last run on github repo
+```
+
 ### Notes
 - May be worth inspecting data beforehand.
 - Data can be read in via pandas `.read_csv()`.
